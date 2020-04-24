@@ -9,4 +9,4 @@
 
 # 演示
 
-![demo](https://cdn.jsdelivr.net/gh/QSCTech-Sange/picBed/demo)
+![demo](https://cdn.jsdelivr.net/gh/QSCTech-Sange/picBed/demo_2.jpg)
