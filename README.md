@@ -9,4 +9,4 @@
 
 # 演示
 
-![demo.png](demo.png)
+![demo](https://cdn.jsdelivr.net/gh/QSCTech-Sange/picBed/demo)
